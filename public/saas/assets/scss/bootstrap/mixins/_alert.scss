@@ -1,0 +1,21 @@
+@mixin alert-variant($background, $border, $color) {
+  color: $color;
+  @include gradient-bg($background);
+  border-color: $border;
+
+  hr {
+    border-top-color: darken($border, 5%);
+  }
+
+  .alert-link {
+    color: darken($color, 10%);
+  }
+}
+
+@mixin alert-outline-variant($background, $border, $color) {
+  color: #525f7f!important;
+
+  border: 2px solid $color!important;
+
+
+}

@@ -1,0 +1,121 @@
+
+.dropdown-item-header {
+  font-size: 0.6875rem !important;
+  color: #8a979c;
+}
+
+main.zero {
+  margin-top: 8 5rem
+}
+
+.section-shaped .shape.shape-skew + .shape-container {
+  padding-top: 12rem;
+  padding-bottom: 10rem;
+}
+
+.margin-zero-auto {
+  margin: 0 auto;
+}
+
+.section-bg {
+  background-color: #f7f8f9;
+}
+
+.mt-50 {
+  margin-top: 3.125rem;
+}
+
+.mt-100 {
+  margin-top: 6.25rem
+}
+
+.min-height-70 {
+  min-height: 4.375rem;
+}
+
+.bg-gold{
+  background-color: #ff9d00;
+}
+.navbar-brand img{
+  height: 2.5rem;
+}
+.invalid-feedback{
+  display: block;
+}
+
+.bg-half-transparent{
+
+  background-color: #ffffff3d!important;
+
+}
+
+.featured{
+  transform: scale(1.05);
+}
+
+.album{
+  .card-body{
+    min-height: 8rem;
+  }
+  .card-tex{
+
+  }
+  .card-footer{
+    background-color: transparent;
+    border-top: 0rem!important;
+    padding-top: 0rem;
+  }
+}
+
+.bg-login{
+  background-image: url('/saas/assets/img/theme/g532.png');
+  background-position: right;
+  background-repeat: no-repeat;
+
+}
+.bg-register{
+
+  background-image: url('/saas/assets/img/theme/g2294.png');
+  background-position: right;
+  background-repeat: no-repeat;
+}
+
+/** Account **/
+.account-menu{
+  > .nav-link{
+
+    border-radius: 0px;
+    box-shadow: none;
+    border-bottom: 1px solid #f2f2f2;
+
+  }
+}
+.col-form-label{
+  font-size: 0.8rem;
+}
+p{
+  font-size: .875rem!important;
+}
+h6{
+  font-weight: bold;
+}
+
+.fa-features{
+  font-size: 3rem;
+}
+.payments{
+  font-size: 40px;
+}
+.list-inline{
+  li {
+    display: inline-block;
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+}
+
+.features{
+  .text-primary{
+    margin-top: 20px;
+  }
+}
